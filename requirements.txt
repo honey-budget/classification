@@ -1,0 +1,10 @@
+# Python version 3.11.7
+#pip version 23.3.2
+
+numpy==1.26.3
+pandas==2.2.0
+matplotlib==3.8.2
+seaborn==0.13.2
+#! tensorflow not supported python 3.12 : (1/28/2024)
+tensorflow==2.15.0
+scikit-learn
